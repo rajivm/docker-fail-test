@@ -1,3 +1,3 @@
 FROM scratch
 
-ADD package.json /
+COPY package.json /
